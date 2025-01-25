@@ -66,7 +66,8 @@ Instead of relying on these frameworks, we manually implemented AES encryption a
 ## File Structure
 - `main.py`
 - `Dataset/`
-- `README.md/`
+- `README.md`
+- `LICENSE`
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
